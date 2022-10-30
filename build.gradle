@@ -8,7 +8,6 @@ group 'to.idemo'
 version '1.0-SNAPSHOT'
 
 repositories {
-    mavenLocal() //Required until api is pushed to external repo
     mavenCentral()
 }
 
